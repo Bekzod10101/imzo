@@ -1,0 +1,413 @@
+@media (max-height: 500px) {
+  .modal .modal_content .modal_container h3 {
+    font-size: 24px;
+  }
+  .modal .modal_content .close {
+    top: 10px;
+    right: 10px;
+    font-size: 36px;
+  }
+}
+@media (max-height: 687px) {
+  .furnitures_catalog_section .slider .window_item img{
+    height: 200px;
+  }
+  .main_banner .form form input {
+    height: 40px;
+  }
+  header {
+    padding: 10px 0;
+  }
+  header .get_in_touch_block {
+    margin-bottom: 12px;
+  }
+  header .menu a,
+  header .info_block h3 {
+    font-size: 14px;
+  }
+  header .info_block .info_item i {
+    font-size: 24px;
+  }
+  header .get_in_touch_block h3 {
+    font-size: 18px;
+  }
+  .main_banner {
+    padding-top: 125px;
+    padding-bottom: 45px;
+  }
+}
+@media (max-height: 600px) {
+  .main_banner {
+    padding-top: 110px;
+    padding-bottom: 20px;
+  }
+  .form p,
+  .main_banner .form form p i {
+    font-size: 12px;
+  }
+  header .menu .callback_button,
+  header .menu a {
+    line-height: 32px;
+    height: 32px;
+  }
+  .main_banner .form h4 {
+    font-size: 18px;
+  }
+  .main_banner .features_list .features_item img {
+    height: 48px;
+    width: 48px;
+  }
+}
+@media (max-width: 991px) {
+  .windows_types_section .types_img p {
+    font-size: 16px;
+  }
+  footer .get_in_touch_block {
+    text-align: center;
+    margin-top: 15px;
+  }
+  .main_banner {
+    height: -webkit-calc(100vh + 80px) !important;
+    height: calc(100vh + 80px) !important;
+  }
+  header .logo_block img {
+    width: 100%;
+  }
+  .header_info {
+    padding: 0;
+  }
+  header .info_block h3 {
+    font-size: 14px;
+  }
+  header .info_block .info_item i {
+    font-size: 24px;
+  }
+  header .get_in_touch_block h3 {
+    font-size: 18px;
+  }
+  .main_banner .banner_title {
+    font-size: 48px;
+  }
+  .windows_types_section .types_desc p,
+  .tab_section .tab_content .tab_text p {
+    font-size: 18px;
+  }
+  .main_banner .features_list .features_item p {
+    font-size: 16px;
+  }
+}
+@media (max-width: 767px) {
+  .header_info {
+    padding: 0 15px;
+  }
+  footer .info_block {
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -webkit-flex-direction: column;
+        -ms-flex-direction: column;
+            flex-direction: column;
+  }
+  header .get_in_touch_block {
+    margin-bottom: 0;
+  }
+  header .menu_icon {
+    display: block;
+  }
+  .contacts_desc {
+    margin-top: 30px;
+  }
+  header .get_in_touch_block h3 {
+    line-height: 36px;
+  }
+  header .menu {
+    display: none;
+  }
+  header .info_block {
+    -webkit-box-pack: end;
+    -webkit-justify-content: flex-end;
+        -ms-flex-pack: end;
+            justify-content: flex-end;
+  }
+  header .info_block .info_item {
+    margin-left: 16px;
+    margin-right: 0;
+  }
+  .modal .modal_content .modal_container {
+    width: 100%;
+    max-height: 80%;
+  }
+  .windows_types_section .types_desc h2 {
+    text-align: center;
+  }
+  .windows_types_section .row {
+    margin-bottom: 30px;
+  }
+  .types_img {
+    -webkit-box-ordinal-group: 2;
+    -webkit-order: 1;
+        -ms-flex-order: 1;
+            order: 1;
+  }
+  .types_desc {
+    -webkit-box-ordinal-group: 3;
+    -webkit-order: 2;
+        -ms-flex-order: 2;
+            order: 2;
+    margin-top: 15px;
+  }
+  footer {
+    height: auto;
+    padding: 20px 0;
+  }
+  footer p,
+  footer .info_block {
+    margin-bottom: 20px;
+  }
+  footer .col-lg-4 {
+    height: auto;
+  }
+  .main_banner .form {
+    width: 40%;
+  }
+  .main_banner .banner_title {
+    width: 60%;
+    font-size: 36px;
+  }
+  .tab_img {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+    -webkit-align-items: center;
+        -ms-flex-align: center;
+            align-items: center;
+  }
+  .testimonials_section .testimonial_item {
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -webkit-flex-direction: column;
+        -ms-flex-direction: column;
+            flex-direction: column;
+  }
+  .testimonials_section .text_block {
+    width: 100%;
+    text-align: center;
+    padding-left: 0;
+    margin-top: 16px;
+  }
+  .tab_section .buttons_list {
+    -webkit-flex-wrap: wrap;
+        -ms-flex-wrap: wrap;
+            flex-wrap: wrap;
+  }
+  .tab_section .buttons_list a {
+    font-size: 18px;
+    margin-bottom: 16px;
+  }
+  .testimonials_section .img_block {
+    width: 66%;
+  }
+  .main_banner .features_list .features_item p {
+    font-size: 14px;
+  }
+  .call_section {
+    padding: 60px 15px;
+  }
+  .windows_types_section .types_desc p {
+    text-align: center;
+  }
+  .windows_types_section .types_desc a {
+    display: block;
+    margin: 0 auto;
+    margin-top: 16px;
+  }
+  .hidden_sm {
+    display: none;
+  }
+}
+@media (max-width: 575px) {
+
+  .tab_section .tab_content .tab_img img{
+    object-position: center;
+  }
+  footer .get_in_touch_block {
+    margin-top: 0;
+  }
+  .windows_types_section .types_img p {
+    font-size: 16px;
+  }
+  .windows_types_section .types_img a {
+    height: 32px;
+    line-height: 32px;
+    font-size: 16px;
+  }
+  header .info_block h3 {
+    font-size: 16px;
+    margin-left: 4px;
+  }
+  header .info_block .info_item i {
+    font-size: 16px;
+  }
+  header .number_block {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+    -webkit-align-items: center;
+        -ms-flex-align: center;
+            align-items: center;
+    margin-top: 8px;
+  }
+  .main_banner {
+    padding-top: 180px;
+    height: auto!important;
+  }
+  .main_banner .banner_title {
+    width: 100%;
+    text-align: center;
+  }
+  .main_banner br {
+    display: none;
+  }
+  .main_banner .form {
+    width: 80%;
+  }
+  .main_banner .features_list {
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -webkit-flex-direction: column;
+        -ms-flex-direction: column;
+            flex-direction: column;
+    width: 80%;
+    display: block;
+    margin: 0 auto;
+    margin-top: 16px;
+  }
+  .main_banner .features_list .features_item {
+    margin-bottom: 30px;
+  }
+  .main_banner .features_list .features_item p {
+    font-size: 18px;
+  }
+  .testimonials_section .testimonial_item {
+    padding: 0 50px;
+  }
+  .flickity-button {
+    height: 32px;
+    width: 32px;
+    border: 1px solid #000;
+  }
+  .furnitures_catalog_section .section_title h2 {
+    font-size: 24px;
+  }
+  .section_title {
+    font-size: 24px!important;
+  }
+  .furnitures_catalog_section .section_title h3 {
+    font-size: 18px;
+  }
+  .tab_section .tab_content {
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -webkit-flex-direction: column;
+        -ms-flex-direction: column;
+            flex-direction: column;
+  }
+  .tab_section .tab_content .tab_img img {
+    margin-top: 30px;
+  }
+  .tab_section .tab_content .tab_text {
+    text-align: center;
+  }
+  .tab_section .tab_content .tab_text a {
+    display: block;
+    margin: 0 auto;
+    margin-top: 15px;
+  }
+  .number_block {
+    width: 100%;
+  }
+  .number_block .menu_icon {
+    margin-left: auto;
+  }
+  header .info_block .info_item {
+    margin-left: 0;
+  }
+  header .info_item:first-child {
+    margin-right: auto!important;
+  }
+  .features_section .feature_item {
+    margin-bottom: 15px;
+  }
+  header .logo_block img {
+    width: 30%;
+    display: block;
+    margin: 0 auto;
+    margin-bottom: 15px;
+  }
+  footer {
+    text-align: center;
+  }
+}
+@media (max-width: 465px) {
+  .windows_types_section .types_img p {
+    font-size: 14px;
+  }
+  header .info_block {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -webkit-flex-direction: column;
+        -ms-flex-direction: column;
+            flex-direction: column;
+  }
+  header .info_item:first-child {
+    margin-left: auto;
+  }
+  .windows_types_section .types_img img,
+  .windows_types_section .types_img {
+    height: 270px;
+    margin-bottom: 0;
+  }
+  .main_banner .features_list {
+    padding: 15px;
+  }
+  .main_banner .features_list,
+  .main_banner .form {
+    width: 90%;
+  }
+  .main_banner .banner_title {
+    color: #fff;
+  }
+  .main_banner .banner_title span {
+    background: none;
+  }
+  .main_banner .banner_title br {
+    display: none;
+  }
+  .main_banner .banner_title {
+    font-size: 36px;
+  }
+  header .logo_block img {
+    width: 30%;
+  }
+  .modal .modal_content .modal_container form input,.modal .modal_content .modal_container form textarea {
+    width: 100%;
+  }
+  .features_section .feature_item h3,
+  .features_section .feature_item p {
+    font-size: 14px;
+  }
+  .features_section .feature_item i {
+    font-size: 64px;
+  }
+  .furnitures_catalog_section .slider .window_item h4,
+  .windows_types_section .types_desc h2 {
+    font-size: 20px;
+  }
+}
